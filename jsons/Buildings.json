@@ -7,7 +7,7 @@
 		"happiness": 22,
 		"culture": 22,
 		"science": 22,
-		"maintenance": 0,
+		"maintenance": 1,
 		"isNationalWonder": true,
 		"requiredBuildingInAllCities": "Colosseum",
 		"requiredTech": "Horseback Riding"

@@ -7,11 +7,11 @@
 		"movement": 3,
 		"strength": 110,
 		"rangedStrength": 76,
-		"range": 10,
+		"range": 100,
 		"cost": 500,
 		"requiredTech": "Archery",
 		"requiredResource": "Iron",
-		"promotions": ["Logistics","Extended Range"],
+		"promotions": ["Logistics","Extended Range","Indirect Fire"],
 		"attackSound": "phasers"
 	}
 ]

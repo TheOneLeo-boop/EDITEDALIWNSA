@@ -37,11 +37,11 @@
             "[Military] units gain the [Quick Study] promotion",
             "[+4 Gold] from every [Academy]",
             "[Land] units gain the [Cold heart] promotion",
-			"[+1 Food] from every [Snow]",
-			"[+1 Food] from every [Tundra]",
-			"[+1 Food] from every [Grassland]",
-			"[+1 Food] from every [Plains]",
-			"[+1 Food] from every [Desert]"
+			"[+5 Food] from every [Snow]",
+			"[+5 Food] from every [Tundra]",
+			"[+5 Food] from every [Grassland]",
+			"[+5 Food] from every [Plains]",
+			"[+5 Food] from every [Desert]"
 		],
 
         "cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",

@@ -7,10 +7,10 @@
 		"happiness": 102,
 		"culture": 102,
 		"science": 102,
-		"maintenance": 1,
+		"maintenance": 0,
 		"isNationalWonder": true,
 		"requiredBuildingInAllCities": "Colosseum",
-		"requiredTech": "Horseback Riding"
+		"requiredTech": "Engineering"
 	},
 	{
 		"name": "Breeders",

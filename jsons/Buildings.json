@@ -10,7 +10,7 @@
 		"maintenance": 0,
 		"isNationalWonder": true,
 		"requiredBuildingInAllCities": "Colosseum",
-		"requiredTech": "Engineering"
+		"requiredTech": "Construction"
 	},
 	{
 		"name": "Breeders",
@@ -20,6 +20,6 @@
 		"hurryCostModifier": 200,
 		"happiness": 52,
 		"uniques": ["[50]% of food is carried over [in this city] after population increases"],
-		"requiredTech": "Engineering"
+		"requiredTech": "Construction"
 	}
 ]

@@ -4,9 +4,9 @@
 		"replaces": "Circus Maximus",
 		"uniqueTo": "Aliens",
 		"cost": 480,
-		"happiness": 52,
-		"culture": 52,
-		"science": 52,
+		"happiness": 102,
+		"culture": 102,
+		"science": 102,
 		"maintenance": 1,
 		"isNationalWonder": true,
 		"requiredBuildingInAllCities": "Colosseum",
@@ -18,7 +18,7 @@
 		"uniqueTo": "Aliens",
 		"cost": 80,
 		"hurryCostModifier": 200,
-		"happiness": 2,
+		"happiness": 52,
 		"uniques": ["[50]% of food is carried over [in this city] after population increases"],
 		"requiredTech": "Engineering"
 	}
